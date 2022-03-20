@@ -4,7 +4,7 @@
 
 ---
 
-SPORT NEWS is a React application that was created for the recruitment task. It is a <b> website with posts about the latest sport events </b> in some company with data fetched from <b> ‘JSONPlaceholder’ API </b> (https://jsonplaceholder.typicode.com/).
+SPORT NEWS is a React application that was created for the recruitment task. It is a <b> website with posts about the latest sport events </b> in some company. All data is fetched from <b> ‘JSONPlaceholder’ API </b> (https://jsonplaceholder.typicode.com/).
 
 ---
 
