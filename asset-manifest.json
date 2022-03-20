@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sport-news/static/css/main.beaa71f1.css",
+    "main.css": "/sport-news/static/css/main.7e3b5821.css",
     "main.js": "/sport-news/static/js/main.f03645af.js",
     "index.html": "/sport-news/index.html",
-    "main.beaa71f1.css.map": "/sport-news/static/css/main.beaa71f1.css.map",
+    "main.7e3b5821.css.map": "/sport-news/static/css/main.7e3b5821.css.map",
     "main.f03645af.js.map": "/sport-news/static/js/main.f03645af.js.map"
   },
   "entrypoints": [
-    "static/css/main.beaa71f1.css",
+    "static/css/main.7e3b5821.css",
     "static/js/main.f03645af.js"
   ]
 }
