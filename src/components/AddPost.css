@@ -1,0 +1,40 @@
+.empty {
+  height: 150px;
+}
+.form-component {
+  margin: 0 15%;
+  height: 70vh;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 40px;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.884);
+  color: rgba(255, 255, 255, 0.932);
+}
+
+.form {
+  width: 70%;
+}
+
+.form-label {
+  font-size: 1.2em;
+  margin: 10px;
+}
+
+.form-placeholder-input {
+  text-align: center;
+}
+
+.form-btn {
+  padding: 10px 25px;
+  margin-top: 20px;
+}
+
+.form-btn-link,
+.form-btn-link:hover {
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,70 @@
+.modal-header {
+  background-color: rgba(0, 0, 0, 0.884);
+  color: rgba(255, 255, 255, 0.932);
+  border: 1px solid rgba(0, 0, 0, 0.884);
+}
+
+.modal-title h1 {
+  font-size: 1.1em;
+}
+
+.modal-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+  margin: 5% 10%;
+  justify-content: center;
+}
+
+.modal-img {
+  border: 1px solid rgba(128, 128, 128, 0.185);
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.modal-text {
+  padding: 16px;
+  border: 1px solid rgba(128, 128, 128, 0.185);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  width: 100%;
+  margin-bottom: 50px;
+  font-size: 15px;
+}
+
+.modal-text-title {
+  margin-bottom: 20px;
+  width: 100%;
+  padding: 5px 0;
+  color: rgba(255, 255, 255, 0.932);
+  background-color: rgba(0, 0, 0, 0.884);
+}
+
+.modal-text-title b {
+  font-size: 1.1em;
+  padding: 8px;
+}
+
+.modal-comments {
+  margin: 0 10% 10%;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.modal-comments div span {
+  font-size: 1.5em;
+}
+
+.modal-comments-title {
+  font-size: 1em;
+  margin-bottom: 20px;
+  padding: 5px 0;
+  color: rgba(255, 255, 255, 0.932);
+  background-color: rgba(0, 0, 0, 0.884);
+}

@@ -1,0 +1,79 @@
+.posts-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.posts {
+  margin-top: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.post-card {
+  background-color: rgba(0, 0, 0, 0.884);
+  color: rgba(255, 255, 255, 0.932);
+  margin: 25px;
+  width: 450px;
+  height: 450px;
+  align-items: center;
+  text-align: center;
+}
+
+.post {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.post-title {
+  text-transform: uppercase;
+}
+
+.post-img {
+  margin: 10px;
+  max-width: 300px;
+  max-height: 250px;
+}
+
+.post-btn {
+  width: 50%;
+  margin-bottom: 30px;
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+.pagination {
+  align-self: center;
+}
+
+.pagination-previous-next {
+  text-decoration: none;
+  color: black;
+}
+
+.pagination-container {
+  display: flex;
+  list-style: none;
+  height: 40px;
+  margin: 40px 0;
+  color: black;
+}
+
+.pagination-container a {
+  padding: 3px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.pagination-container-active {
+  cursor: pointer;
+  height: 28px;
+  margin-top: -4px;
+  padding: 1px 2px;
+  border-radius: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.884);
+  color: white;
+  background-color: rgba(0, 0, 0, 0.884);
+}
