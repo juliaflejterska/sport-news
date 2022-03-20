@@ -8,4 +8,4 @@ SPORT NEWS is a React application that was created for the recruitment task. It 
 
 ---
 
-The website uses <b> Bootstrap, React Router, Font Awesome and Framer Motion </b>.
+The website uses <b> Bootstrap, React Router, Font Awesome and Framer Motion. </b>
