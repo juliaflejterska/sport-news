@@ -74,9 +74,9 @@ nav {
     width: 100%;
     position: absolute;
     background-color: white;
-    padding: 20px;
+    padding: 0px 20px 50px;
     right: 0;
-    top: 64px;
+    top: 50px;
     height: 100vh;
   }
 
